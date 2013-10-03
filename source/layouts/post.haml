@@ -1,0 +1,8 @@
+- wrap_layout :layout do
+  %article
+    .date= current_page.date.strftime('%m/%d/%y')
+    %h2.title= current_page.title
+    .body
+      = current_page.body
+    %div.block-divider
+

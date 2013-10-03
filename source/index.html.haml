@@ -1,0 +1,28 @@
+---
+pageable: false 
+per_page: 10 
+---
+- if paginate
+  %p
+    Page #{page_number} of #{num_pages}
+  - if prev_page
+    %p= link_to 'Previous page', prev_page
+
+- page_articles.each_with_index do |article, i|
+  %article
+    .date= article.date.strftime('%m/%d/%y')
+    %h2.title
+      = link_to article.title, article
+    .body
+      = article.summary
+      = link_to 'Read more...', article
+
+    %div.block-divider
+
+- if paginate
+  - if next_page
+    %p= link_to 'Next page', next_page
+
+    // issue w/ link text in my post/markdown file - how to target it w/ color/active states
+    // pagination (or maybe just do this w/ tags...)
+    // summary
