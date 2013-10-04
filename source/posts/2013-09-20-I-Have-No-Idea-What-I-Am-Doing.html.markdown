@@ -1,5 +1,6 @@
 ---
 title: I have No Idea What I Am Doing
+
 ---
 
 ![](./woman_computer.png)
@@ -12,7 +13,7 @@ I lost hours googling my googles because I didn't understand the
 answers to my noob questions.
 
 I have yet to fully complete an in-class exercise during the allocated
-class time (@ the gSchool).  
+class time (@ the [gSchool](http://www.gschool.it/)).  
 
 I wrote eight lines of code for Event Reporter (first "real" project
 assigned with a one week turn time.) and none of them did

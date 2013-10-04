@@ -2,7 +2,7 @@
 title: Desperately Seeking Noob Status
 
 ---
-![](./noob_nerd.png)
+![](./noob-nerd.png)
 
 At the start of my learning to program adventure, my mentor referred to
 me as a noob in an email exchange. I made the mistake of
@@ -12,14 +12,14 @@ link as added support and humorous reference material.
 
 His response: 
 
-*Wow. Just wow. You just solidified your "noob" status majorly. First off
-only dumb marketing people use the term "newb" and then go on to
-actually quote something from Urban Dictionary. Seriously, you are
-quoting "Urban Dictionary"? It's so lame I won't even click on the link.
-You're "noob" status just hit a whole new level. I'm not even sure there
-is a term for it. And by the way, if you were a gamer (which obviously
-you are not), you would be referred to as "n00b". That's right double
-zero style. This is fucking unbelievable.*
+>*Wow. Just wow. You just solidified your "noob" status majorly. First off
+>only dumb marketing people use the term "newb" and then go on to
+>actually quote something from Urban Dictionary. Seriously, you are
+>quoting "Urban Dictionary"? It's so lame I won't even click on the link.
+>You're "noob" status just hit a whole new level. I'm not even sure there
+>is a term for it. And by the way, if you were a gamer (which obviously
+>you are not), you would be referred to as "n00b". That's right double
+>zero style. This is fucking unbelievable.*
 
 Huh. So apparently I was already way behind in this whole programming
 thing and I hadn't even started? Hello Humble.
@@ -32,7 +32,7 @@ to do this full time, because I was hooked and desperately seeking noob
 status - for real.
 
 Enter the opportunity at [gSchool](http://www.gschool.it/). I applied, I stalked the founder, and
-I was a mild train wreck at the interview, which combined, all magically resulted
+I was a mild train wreck at the interview, which all combined, magically resulted
 in my acceptance (because apparently they don't read your writing
 sample). And so began my noob life. In week one, or rather week zero,
 they started us off with an initiation in improv, Ruby in 100 minutes and a
@@ -40,16 +40,16 @@ tidal wave of tutorials to prep us for the deep end of the ocean, which
 is weird, because I was pretty sure I was already in the deep end of the
 ocean when I quit my career of 10 years so I could learn to code.
 
-A small handful of highlights from the week included: 
-- string manipulation
-- using ERB for templating
-- reading data from CSV files
-- rotating arrays
-- zipping hashes
-- middleman blog creation
-- installing and using gems
-- setting up programming environment
-- conditional branching and looping
+A small handful of highlights from the week:   
++  string manipulation  
++  using ERB for templating  
++  reading data from CSV files  
++  rotating arrays  
++  zipping hashes  
++  middleman blog creation  
++  installing and using gems  
++  setting up programming environment  
++  conditional branching and looping  
 
 And while I would love to expound on all of the above, or even provide
 the full list of topics covered in week zero, there is just no
