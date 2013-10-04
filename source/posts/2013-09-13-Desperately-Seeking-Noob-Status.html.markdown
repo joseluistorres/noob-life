@@ -39,7 +39,7 @@ tidal wave of tutorials to prep us for the deep end of the ocean, which
 is weird, because I was pretty sure I was already in the deep end of the
 ocean when I quit my career (marketing of course) of 10 years so I could learn to code.
 
-A small handful of highlights from the week:   
+A small handful of highlights from the week:  
 +  string manipulation  
 +  using ERB for templating  
 +  reading data from CSV files  

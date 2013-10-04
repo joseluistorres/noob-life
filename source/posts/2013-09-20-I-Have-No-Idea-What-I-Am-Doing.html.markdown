@@ -22,6 +22,6 @@ I spent an hour and a half relentlessly trying to debug a functional
 file that wasn't even the file I was requiring in the test suite I was
 working from - seriously. 
 
-I never use the damn Pomodoro, even though I know I should, and my psyche suffers for it. 
+I never use the damn Pomodoro, even though I know I should, and my psyche suffers for it after I have spent a ridiculous number of hours straight looking at my monitor with no break. 
 
 For fuck's sake. I have no idea what I am doing.

@@ -4,7 +4,7 @@ title: Baby Steps and Novice Love
 
 ![](./baby.png)
 
-I am currently reading a book from the gSchool reading list called
+I am currently reading a book from the [gSchool](http://www.gschool.it/) reading list called
 [Pragmatic Thinking and Learning: Refactor your
 Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning).
 The author, Andy Hunt, dives into how our brains are
@@ -24,16 +24,19 @@ Yes please. Sign me up.
 I am only on chapter three, but actually feeling like there might be hope
 for me yet. He talks at length about the Dreyfus model of Skill
 Acquistion in the first three chapters. I won't go into detail on the
-model, but it's worth investigating further if you are so inclined. I
-will, however, provide you with [Katrina's](https://github.com/kytrinyx?source=cc) succinct and apt summation of the scale, excerpted from her talk on [Hacking Passsion](http://kytrinyx.com/blog/hacking-passion):  
+model, but it's worth investigating further if you are so inclined.
 
-+ Novice: where you know nothing  
-+ Advanced beginner: where you still suck, but you start seeing what
-this might be about  
-+ Competent: where you can start getting shit done  
-+ Proficient: where you get shit done really well  
-+ Expert: where the shit you get done seems like magic to pretty much
-everyone else.  
+> I will, however, provide you with
+> [Katrina's](https://github.com/kytrinyx?source=cc) succinct and apt
+> summation of the scale, excerpted from her talk on [Hacking
+> Passsion](http://kytrinyx.com/blog/hacking-passion):  
+> + Novice: where you know nothing  
+> + Advanced beginner: where you still suck, but you start seeing what
+> this might be about  
+> + Competent: where you can start getting shit done  
+> + Proficient: where you get shit done really well  
+> + Expert: where the shit you get done seems like magic to pretty much
+> everyone else.  
 
 I am a novice. And according to Andy Hunt, those who are of the novice
 persuasion require a specific kind of teaching love. Here are a couple
@@ -62,39 +65,44 @@ needs and state of mind of the novice. Mind you, it is never a
 one-size-fits-all declaration, but I can attest that some of us in
 school are of the particular novice persuasion who would respond better,
 and grow faster, with just a few extras bolted onto the first few weeks
-of school. Ideas include:
-
-+  Study Hall. An hour or so, 2-3 times per week, before or after class
-  to focus on the fundamentals. To revisit again and again the concepts
-  and problems presented in class that are escaping us.
-
-+  Mentors at the Start. If it were possible to introduce a few mentors
-  at the start of the program, this would be amazing. Sometimes, we
-  masochistic novices struggle too long and too hard, to the point of
-  total breakdown, and having additional resources who were available
-  more frequently, especially in the off-hours, could really make the
-  difference in our ability to jump the big hurdles and gain much needed
-  confidence.
-
-+ Baby Step Tutorials. Smaller chunks of learning exercises
-  that force us to repeat the little things and apply them
-  progressively, in a building block format. 
-
-+ Invitation to Pace. This, for me, is critical. While it is true we
-  don't receive traditional grades in gSchool, I spent the first three
-  weeks beating myself up because I couldn't finish everything, and the
-  first project, I can't even say I really started. And I was beginning
-  to lose faith in the process, and even worse, myself. And I found the
-  messages around the importance of finishing the first few projects to
-  be rather inconsistent. And it was hard to priroritize what I should
-  be focused on in order to avoid being left behind, or miss something
-  critical to my success. Might seem trivial in hindsight, but as a
-  noob, I don't know what I don't know, and even the little things get
-  overwhelming.   
+of school. 
+> Ideas include:  
+> + Study Hall. An hour or so, 2-3 times per week, before or after class
+>   to focus on the fundamentals. To revisit again and again the concepts
+>   and problems presented in class that are escaping us.  
+> + Mentors at the Start. If it were possible to introduce a few mentors
+>   at the start of the program, this would be amazing. Sometimes, we
+>   masochistic novices struggle too long and too hard, to the point of
+>   total breakdown, and having additional resources who were available
+>   more frequently, especially in the off-hours, could really make the
+>   difference in our ability to jump the big hurdles and gain much needed
+>   confidence.  
+> + Baby Step Tutorials. Smaller chunks of learning exercises
+>   that force us to repeat the little things and apply them
+>   progressively, in a building block format.  
+> + Invitation to Pace. This, for me, is critical. While it is true we
+>   don't receive traditional grades in gSchool, I spent the first three
+>   weeks beating myself up because I couldn't finish everything, and the
+>   first project, I can't even say I really started. And I was beginning
+>   to lose faith in the process, and even worse, myself. And I found the
+>   messages around the importance of finishing the first few projects to
+>   be rather inconsistent. And it was hard to priroritize what I should
+>   be focused on in order to avoid being left behind, or miss something
+>   critical to my success. Might seem trivial in hindsight, but as a
+>   noob, I don't know what I don't know, and even the little things get
+>   overwhelming.  
+> + More Pictures. The diagrams and the whiteboards help a lot. Even when
+>   its just writing code on the wall with markers, it is wonderful. I
+>   think this is because it forces everyone to slow down. For the novice
+>   crew, sometimes we find ourselves struggling to just keep up with all
+>   the window hopping and fast code typing on the screen during class
+>   instruction and that often causes unintended consequences of not
+>   really listening (because we are panicked about keeping up), or just
+>   checking out because we miss one step and suddenly find ourselves in
+>   no-man's land without a clue as to what question to even ask. 
 
 That's all I got for right now. I only read three chapters, however
-Katrina contributed a very thorough analysis on the [Jumpstart Blog](http://jumpstartlab.com/news/archives/2013/10/03/pragmatic-learning-at-gschool-part-i), so
-you should definitely check it out. There will be more to come as we
+Katrina contributed a very thorough analysis on the [Jumpstart Blog](http://jumpstartlab.com/news/archives/2013/10/03/pragmatic-learning-at-gschool-part-i), so you should definitely check it out. There will be more to come as we
 finish the book over the next couple weeks.
 
 And the best part about reading this book, is that gSchool is reading it
