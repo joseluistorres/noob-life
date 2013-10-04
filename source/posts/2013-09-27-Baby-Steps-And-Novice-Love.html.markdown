@@ -5,13 +5,14 @@ title: Baby Steps and Novice Love
 ![](./baby.png)
 
 I am currently reading a book from the gSchool reading list called
-Pragmatic Thinking and Learning: Refactor your Wetware (Pragmatic
-Programmers). The author, Andy Hunt, dives into how our brains are
+[Pragmatic Thinking and Learning: Refactor your
+Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning).
+The author, Andy Hunt, dives into how our brains are
 wired, and how to apply ourselves in learning new skills. It is written
 with programming in mind, but uses examples and analogies that span
 other professional and artistic disciplines. Andy claims:
 
-> In this book you'll learn how to:
+> In this book you'll learn how to:  
 > + Use the Dreyfus Model of Skill Acquisition to become more expert  
 > + Leverage the architecture of the brain to strengthen different thinking modes  
 > + Avoid common "known bugs" in your mind  
@@ -20,25 +21,26 @@ other professional and artistic disciplines. Andy claims:
 
 Yes please. Sign me up.  
 
-I am only on chapter 3, but actually feeling like there might be hope
+I am only on chapter three, but actually feeling like there might be hope
 for me yet. He talks at length about the Dreyfus model of Skill
 Acquistion in the first three chapters. I won't go into detail on the
 model, but it's worth investigating further if you are so inclined. I
 will, however, provide you with [Katrina's](https://github.com/kytrinyx?source=cc) succinct and apt summation of the scale, excerpted from her talk on [Hacking Passsion](http://kytrinyx.com/blog/hacking-passion):  
-  
-+  **Novice**: where you know nothing  
-+  **Advanced beginner**: where you still suck, but you start seeing what
+
++ Novice: where you know nothing  
++ Advanced beginner: where you still suck, but you start seeing what
 this might be about  
-+  **Competent**: where you can start getting shit done  
-+  **Proficient**: where you get shit done really well  
-+  **Expert**: where the shit you get done seems like magic to pretty much
++ Competent: where you can start getting shit done  
++ Proficient: where you get shit done really well  
++ Expert: where the shit you get done seems like magic to pretty much
 everyone else.  
 
 I am a novice. And according to Andy Hunt, those who are of the novice
 persuasion require a specific kind of teaching love. Here are a couple
 high-level themes from the book that spoke to me personally:  
 
-*First: Crawl, Walk, Run*  
+*First: Crawl, Walk, Run* 
+
 In that order. Focus on small conceptual chunks to practice repeatedly.
 Inserting appropriate variations that challenge, but are still closely
 related to the same concept. This is about building a foundation through
@@ -46,33 +48,38 @@ practice, but doing it with baby steps. And, as with toddlers, create an
 environment that makes lots of small wins accessible and celebrate them
 to create the confidence to move through the stages of crawl, walk, run.  
 
-*Second: Pressure Kills Congnition.* 
-This notion was actually detailed in chapter 7, but referenced in
+*Second: Pressure Kills Congnition.*
+
+This notion was actually detailed in chapter seven, but referenced in
 chapter three. Simply put, pressure stifles creativity, it shuts down
 the areas of our brain we should be accessing religiously while we
 learn, in favor of a fight or flight instinct resulting from the terror
 of failing to deliver. I especially had a lot of that going on for the
 first three weeks of gSchool. 
 
-So the first three chapters really got me thinking about the particular
+These chapters really got me thinking about the particular
 needs and state of mind of the novice. Mind you, it is never a
 one-size-fits-all declaration, but I can attest that some of us in
 school are of the particular novice persuasion who would respond better,
 and grow faster, with just a few extras bolted onto the first few weeks
-of school. Some ideas include:
-+ Study Hall. An hour or so, 2-3 times per week, before or after class
+of school. Ideas include:
+
++  Study Hall. An hour or so, 2-3 times per week, before or after class
   to focus on the fundamentals. To revisit again and again the concepts
-  and problems presented in class that are escaping us.  
-+ Mentors at the Start. If it were possible to introduce a few mentors
+  and problems presented in class that are escaping us.
+
++  Mentors at the Start. If it were possible to introduce a few mentors
   at the start of the program, this would be amazing. Sometimes, we
   masochistic novices struggle too long and too hard, to the point of
   total breakdown, and having additional resources who were available
   more frequently, especially in the off-hours, could really make the
   difference in our ability to jump the big hurdles and gain much needed
-  confidence.    
+  confidence.
+
 + Baby Step Tutorials. Smaller chunks of learning exercises
   that force us to repeat the little things and apply them
-  progressively, in a building block format.
+  progressively, in a building block format. 
+
 + Invitation to Pace. This, for me, is critical. While it is true we
   don't receive traditional grades in gSchool, I spent the first three
   weeks beating myself up because I couldn't finish everything, and the
@@ -83,7 +90,7 @@ of school. Some ideas include:
   be focused on in order to avoid being left behind, or miss something
   critical to my success. Might seem trivial in hindsight, but as a
   noob, I don't know what I don't know, and even the little things get
-  overwhelming. 
+  overwhelming.   
 
 That's all I got for right now. I only read three chapters, however
 Katrina contributed a very thorough analysis on the [Jumpstart Blog](http://jumpstartlab.com/news/archives/2013/10/03/pragmatic-learning-at-gschool-part-i), so
