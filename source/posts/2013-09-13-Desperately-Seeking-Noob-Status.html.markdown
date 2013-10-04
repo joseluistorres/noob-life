@@ -1,6 +1,5 @@
 ---
 title: Desperately Seeking Noob Status
-
 ---
 ![](./noob-nerd.png)
 
@@ -38,7 +37,7 @@ sample). And so began my noob life. In week one, or rather week zero,
 they started us off with an initiation in improv, Ruby in 100 minutes and a
 tidal wave of tutorials to prep us for the deep end of the ocean, which
 is weird, because I was pretty sure I was already in the deep end of the
-ocean when I quit my career of 10 years so I could learn to code.
+ocean when I quit my career (marketing of course) of 10 years so I could learn to code.
 
 A small handful of highlights from the week:   
 +  string manipulation  

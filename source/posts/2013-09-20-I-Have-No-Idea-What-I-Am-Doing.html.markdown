@@ -1,6 +1,5 @@
 ---
 title: I have No Idea What I Am Doing
-
 ---
 
 ![](./woman_computer.png)
