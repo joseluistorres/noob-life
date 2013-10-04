@@ -9,7 +9,8 @@
   %body
     %section.container
       %header.masthead
-        %img(src="/images/nooblife.png")
+        %a{:href => "http://www.noob-life.com", :title => "Noob Life"}
+          %img(src="/images/nooblife.png")
       #main{:role => "main"}
         = yield
 
