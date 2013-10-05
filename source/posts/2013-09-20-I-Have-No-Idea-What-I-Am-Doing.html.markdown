@@ -24,4 +24,5 @@ working from - seriously.
 
 I never use the damn Pomodoro, even though I know I should, and my psyche suffers for it after I have spent a ridiculous number of hours straight looking at my monitor with no break. 
 
-For fuck's sake. I have no idea what I am doing.
+I have no idea what I am doing. And some of these things are just plain
+hysterical. I'll get there. Just keep swimming...
