@@ -26,6 +26,21 @@ activate :blog do |blog|
 end
 
 activate :directory_indexes
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-44597164-1'
+end
+
+configure :development do
+  activate :google_analytics do |ga|
+    ga.tracking_id = false
+  end
+end
+
+configure :build do
+  activate :google_analytics do |ga|
+    ga.tracking_id = 'UUA-44597164-1'
+  end
+end
 
 page "/feed.xml", :layout => false
 
