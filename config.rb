@@ -38,7 +38,7 @@ end
 
 configure :build do
   activate :google_analytics do |ga|
-    ga.tracking_id = 'UUA-44597164-1'
+    ga.tracking_id = 'UA-44597164-1'
   end
 end
 
