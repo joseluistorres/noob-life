@@ -1,6 +1,7 @@
 ---
 title: Desperately Seeking Noob Status
 ---
+
 ![](./noob-nerd.png)
 
 At the start of my learning to program adventure, my mentor referred to
@@ -30,7 +31,7 @@ evenings after my day job, was not going to cut it. I needed to find a way
 to do this full time, because I was hooked and desperately seeking noob
 status - for real.
 
-Enter the opportunity at [gSchool](http://www.gschool.it/). I applied, I stalked the founder, and
+Enter the opportunity at <a href= "http://www.gschool.it" target= "blank">gSchool</a>. I applied, I stalked the founder, and
 I was a mild train wreck at the interview, which all combined, magically resulted
 in my acceptance (because apparently they don't read your writing
 sample). And so began my noob life. In week one, or rather week zero,

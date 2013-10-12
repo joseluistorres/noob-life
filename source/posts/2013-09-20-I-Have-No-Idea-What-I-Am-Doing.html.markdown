@@ -12,7 +12,8 @@ I lost hours googling my googles because I didn't understand the
 answers to my noob questions.
 
 I have yet to fully complete an in-class exercise during the allocated
-class time (@ the [gSchool](http://www.gschool.it/)).  
+class time @ the <a href= "http://www.gschool.it/" target=
+"blank">gSchool</a>   
 
 I wrote eight lines of code for Event Reporter (first "real" project
 assigned with a one week turn time.) and none of them did
