@@ -2,7 +2,7 @@
 title: Baby Steps and Novice Love 
 ---
 
-![](./baby.png)
+![](/images/baby.png)
 
 I am currently reading a book from the <a href= "http://www.gschool.it/" target= "blank">gSchool</a> reading list called
 <a href= "http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning" target= "blank">Pragmatic Thinking and Learning: Refactor your Wetware</a>.
