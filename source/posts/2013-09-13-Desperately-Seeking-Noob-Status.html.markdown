@@ -2,7 +2,7 @@
 title: Desperately Seeking Noob Status
 ---
 
-![](images/noob-nerd.png)
+![](/images/noob-nerd.png)
 
 At the start of my learning to program adventure, my mentor referred to
 me as a noob in an email exchange. I made the mistake of
