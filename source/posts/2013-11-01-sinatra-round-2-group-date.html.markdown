@@ -19,8 +19,8 @@ quite yet the testing artist I hope to be, but at least I’m able to
 think through some ideas on where/how/what to test first when
 starting to construct a feature. 
 
-+ Area of most lightbulbs - definitely in how the routes and
-parameters/hashes work in Sinatra. 
++ Area of most lightbulbs - generally in how things work in
+  Sinatra, especially around routes and parameters/hashes. 
 
 + Area of most confusion - setting up the database method and trying to
 account for a test db along with a dev db. I would like to spend a
@@ -44,8 +44,3 @@ Additionally, Rolen took on several nicknames, including
 *Fierce Cat on a Fire Breathing Unicorn*.
   
 ![](/images/rolen-io.png)
-  
-
-
- 
-   
