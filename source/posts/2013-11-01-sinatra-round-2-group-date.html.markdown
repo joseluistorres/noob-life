@@ -42,5 +42,4 @@ accents while also drawing cartoon pictures on the whiteboard.
 Additionally, Rolen took on several nicknames, including
 “Papa-Rolen”, “The Godfather” and “Ironic Overlord” (rolen.io), aka
 *Fierce Cat on a Fire Breathing Unicorn*.
-  
 ![](/images/rolen-io.png)
