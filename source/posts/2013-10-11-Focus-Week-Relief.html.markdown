@@ -28,7 +28,7 @@ created a dynamic where I actually felt like I was learning *with*
 people, as opposed to just trying to hang on for dear life to the coat
 tails of those who seem light years ahead of me. Whether or not they are in fact light years ahead of me is irrelevant. Perception is reality and as a noob on the Planet of Programming, sometimes this is my reality:
 
-![](./scream.png)
+![](/images/scream.png)
 
 I also found the small groups were more vocal in class, and I believe that is because we all felt safer with
 one another, in that our contributions and questions were useful for
