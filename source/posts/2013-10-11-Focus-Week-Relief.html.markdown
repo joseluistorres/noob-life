@@ -2,7 +2,7 @@
 title: Focus Week Relief
 ---
 
-![](/images/woman_couch.png)
+![](images/woman_couch.png)
 
 So we just finished our first of three focus weeks at the <a href= "http://www.gschool.it/" target= "blank">gSchool</a>, and
 it could not have come at a better time -- well, except maybe a little

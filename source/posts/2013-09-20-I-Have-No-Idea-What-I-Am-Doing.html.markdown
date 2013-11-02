@@ -2,7 +2,7 @@
 title: I have No Idea What I Am Doing
 ---
 
-![](/images/woman_computer.png)
+![](images/woman_computer.png)
 
 I tried to insert ERB tags into haml.
 

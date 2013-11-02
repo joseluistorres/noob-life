@@ -3,7 +3,7 @@ title: Sinatra Round Two - Group Date
 tags:
 ---
 
-![](/images/two-spacegals.png)
+![](images/two-spacegals.png)
 
 So for our second round with Sinatra, it was a group date. Four to be
 exact. It was a far more valuable experience this
@@ -42,4 +42,5 @@ accents while also drawing cartoon pictures on the whiteboard.
 Additionally, Rolen took on several nicknames, including
 “Papa-Rolen”, “The Godfather” and “Ironic Overlord” (rolen.io), aka
 *Fierce Cat on a Fire Breathing Unicorn*.
-![](/images/rolen-io.png)
+
+![](images/rolen-io.png)
